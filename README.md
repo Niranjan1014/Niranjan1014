@@ -1,5 +1,7 @@
-# 💫 About Me: Hii This Niranjan Welcome 
-I'm currently studing bsc final year
+# 💫 About Me:
+Hi i am Niranjan, i am currently pursuving mern full stack and
+i have skills like Passionate Frontend & Full Stack Developer Skilled in React, JavaScript(Es6+),HTML,CSS, and Bootstrap MERN Stack | Python | SQL | PostgreSql
+
 
 
 ## 🌐 Socials:
